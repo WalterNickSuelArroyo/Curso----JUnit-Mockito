@@ -36,5 +36,34 @@
 
 # SECCION 2: JUNIT 5
 ## 4. INTRODUCCION PRUEBAS UNITARIAS
+
+![](imagenes/1.PNG)
+
+![](imagenes/2.PNG)
+
+![](imagenes/3.PNG)
+
+**¿Que son las pruebas unitarias?**
+
+Las pruebas unitarias son un proceso de examen para verificar que una pieza de codigo cumple con ciertas reglas de negocio y afirmar un resultado esperado
+
+**¿Que es JUnit?**
+
+JUnit es una libreria java para escribir y ejecutar repetibles pruebas unitarias
+
 ## 5. INTRODUCCION JUNIT 5
+
+**¿Que es JUnit 5?**
+
+JUnit es un framework para escribir pruebas unitarias de nuestro codigo y ejecutarlas en la JVM. Utiliza progrmacion funcional y lambda e incluye varios estilos diferentes de pruebas, configuraciones, anotaciones, ciclo de vida, etc.
+
+![](imagenes/4.png)
+
+![](imagenes/5.png)
+
+![](imagenes/6.png)
+
+![](imagenes/7.png)
+
+
 ## 6. ACTUALIZACION CREANDO PROYECTO MAVEN EN INTELLIJ
